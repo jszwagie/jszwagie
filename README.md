@@ -1,16 +1,33 @@
-## Hi there 👋
+# 💻 Welcome to My GitHub Profile!  
 
-<!--
-**jszwagie/jszwagie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 About Me  
 
-Here are some ideas to get you started:
+I am a **second-year Computer Science student** at Warsaw University of Technology with a strong academic record, passionate about **technology, artificial intelligence, and software development**. I am currently looking for my **first internship** to gain hands-on experience and apply my skills in real-world projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Beyond coding, I enjoy **music 🎵** and **sports 🏃‍♂️**, which keep me motivated.
+
+## 💡 Languages I Know  
+
+- **Java** ☕  
+- **Python** 🐍  
+- **C / C++** 🔷  
+- **NASM / RISC-V** 🏗️  
+- **Oracle SQL / PL/SQL** 🗄️  
+
+## 🛠️ Tools I Use  
+
+- **Docker** 🐳  
+- **VS Code** 📝  
+- **DataGrip** 🛢️  
+- **IntelliJ IDEA** 🚀  
+- **Oracle SQL Developer** 📊  
+- **Microsoft Visual Studio** 🎨  
+
+## 🖥️ Operating Systems I Use  
+
+- **Linux** 🐧  
+- **Windows** 🖥️  
+
+## 📫 Let's Connect!  
+
+Reach me at https://www.linkedin.com/in/jan-szwagierczak-5623142bb/ 🚀  
